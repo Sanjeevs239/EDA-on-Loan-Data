@@ -11,7 +11,6 @@ This report explores trends and insights from online loan data, focusing on metr
 ## Methods Used
 1. Data Cleaning:
    - Fixed column values and data types.
-   - Converted date strings to datetime objects.
    - Imputed missing values using mean.
    - Dropped columns with >70% missing values.
 2. Data Analysis:
@@ -28,10 +27,6 @@ This report explores trends and insights from online loan data, focusing on metr
 
 ## Inspiration
 This analysis serves as a comprehensive guide for beginners in data exploration, covering cleaning, preprocessing, and visualization techniques.
-
-## How to Use
-- Clone the repository: `git clone https://github.com/your-username/Investment-Study.git`
-- Navigate through the files and adapt for your projects!
 
 ## Acknowledgment
 Do fork and upvote this repository if you find it useful!
